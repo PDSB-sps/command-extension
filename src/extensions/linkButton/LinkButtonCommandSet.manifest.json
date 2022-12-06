@@ -1,0 +1,32 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/command-set-extension-manifest.schema.json",
+
+  "id": "07eb96f6-2f6f-4601-833f-d0d055f0c45a",
+  "alias": "LinkButtonCommandSet",
+  "componentType": "Extension",
+  "extensionType": "ListViewCommandSet",
+
+  
+  "version": "*",
+  "manifestVersion": 2,
+
+ 
+  "requiresCustomScript": false,
+
+  "items": {
+    //for Periods List
+    "COMMAND_1": {
+      "title": { "default": "Change Order" },
+      "iconImageUrl": "https://pdsb1.sharepoint.com/sites/My-Site/SiteAssets/icons/reorder.png",
+      "type": "command"
+    },
+    //For Rooms List
+    "COMMAND_2": {
+      "title": { "default": "Change Order" },
+      "iconImageUrl": "https://pdsb1.sharepoint.com/sites/My-Site/SiteAssets/icons/reorder.png",
+      "type": "command"
+    }
+  }
+}
+
+
