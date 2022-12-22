@@ -26,9 +26,4 @@
                 Image16by16="_layouts/15/images/placeholder16x16.png" />
         </CommandUIDefinition>
     </CommandUIDefinitions>
-    <CommandUIHandlers>
-        <CommandUIHandler Command="Invoke_RibbonCustomAction1ButtonRequest"
-                        CommandAction="~remoteAppUrl/CustomActionTarget.aspx?{StandardTokens}&amp;amp;SPListItemId={SelectedItemId}&amp;amp;SPListId={SelectedListId}"/>
-    </CommandUIHandlers>
-    </CommandUIExtension >
 </Elements>

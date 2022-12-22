@@ -4,7 +4,7 @@
   "https": true,
   "serveConfigurations": {
     "default": {
-      "pageUrl": "https://pdsb1.sharepoint.com/sites/RoomsDemo/1223/Lists/Periods/AllItems.aspx",
+      "pageUrl": "https://pdsb1.sharepoint.com/sites/Rooms/1223/Lists/Periods/AllItems.aspx",
       "customActions": {
         "07eb96f6-2f6f-4601-833f-d0d055f0c45a": {
           "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
@@ -16,7 +16,7 @@
       }
     },
     "linkButton": {
-      "pageUrl": "https://pdsb1.sharepoint.com/sites/RoomsDemo/1468/Lists/Periods/AllItems.aspx",
+      "pageUrl": "https://pdsb1.sharepoint.com/sites/Rooms/1223/Lists/Rooms/AllItems.aspx",
       "customActions": {
         "07eb96f6-2f6f-4601-833f-d0d055f0c45a": {
           "location": "ClientSideExtension.ListViewCommandSet.CommandBar",
