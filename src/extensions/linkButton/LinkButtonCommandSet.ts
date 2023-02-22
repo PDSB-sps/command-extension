@@ -33,6 +33,7 @@ export default class LinkButtonCommandSet extends BaseListViewCommandSet<ILinkBu
 
   @override
   public onListViewUpdated(event: IListViewCommandSetListViewUpdatedParameters): void {
+console.log('Published on Feb/15/2023');
 let websites=this.context;
 //console.log("websites",websites);
 console.log("this.context",this.context);
